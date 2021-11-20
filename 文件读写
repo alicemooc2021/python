@@ -1,0 +1,4 @@
+
+write()  写字符串
+
+writelines()  写字符串列表
